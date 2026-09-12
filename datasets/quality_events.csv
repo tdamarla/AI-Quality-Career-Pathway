@@ -1,0 +1,7 @@
+event_id,event_type,gxp_area,severity,risk_score,status
+QE-2026-001,Protocol Deviation,GCP,Major,8,Open
+QE-2026-002,Audit Finding,GMP,Major,6,Open
+QE-2026-003,CAPA,GCP,Minor,15,Closed
+QE-2026-004,Inspection Finding,GVP,Critical,9,Open
+QE-2026-005,Vendor Finding,GCP,Major,7,Open
+QE-2026-006,Protocol Deviation,GCP,Minor,2,Closed
